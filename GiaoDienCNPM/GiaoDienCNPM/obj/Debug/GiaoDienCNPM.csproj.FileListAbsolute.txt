@@ -1,0 +1,31 @@
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\bin\Debug\GiaoDienCNPM.exe.config
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\bin\Debug\GiaoDienCNPM.exe
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\bin\Debug\GiaoDienCNPM.pdb
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Form1.resources
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Properties.Resources.resources
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.csproj.GenerateResource.cache
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.csproj.CoreCompileInputs.cache
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.exe
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.pdb
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.QuanLyCuaHang.resources
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Quản_Lý_Bán_Hàng.resources
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Quản_Lý_Nhân_Viên.resources
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Thống_Kê_Nhập_Xuất.resources
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Thống_Kê_Thu_Chi.resources
+C:\Users\THAO\Documents\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Quản_Lý_Sản_Phẩm.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\bin\Debug\GiaoDienCNPM.exe.config
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\bin\Debug\GiaoDienCNPM.exe
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\bin\Debug\GiaoDienCNPM.pdb
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.csprojAssemblyReference.cache
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Thống_Kê_Nhập_Xuất.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Form1.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Properties.Resources.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.QuanLyCuaHang.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Quản_Lý_Bán_Hàng.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Thống_Kê_Thu_Chi.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Quản_Lý_Sản_Phẩm.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.Quản_Lý_Nhân_Viên.resources
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.csproj.GenerateResource.cache
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.csproj.CoreCompileInputs.cache
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.exe
+D:\TaiLieu\TAI LIEU MON CU\Công Nghê Phần Mềm\GiaoDienCNPM\GiaoDienCNPM\obj\Debug\GiaoDienCNPM.pdb
